@@ -1,9 +1,7 @@
-# Lo Pak Ki Kapakki
+## `whoami`
 **B.Eng. in Artificial Intelligence – System & Technologies (AISTN)**<br>
 [Sep 2023 - Jul 2027]
 
-
-## `whoami`
 Full Stack developer with 6+ years of experience building production web, 
 backend, and AI pipelines for independent clients, startups, and established 
 companies. Hands-on experience with audio processing, Librosa, TensorFlow 
